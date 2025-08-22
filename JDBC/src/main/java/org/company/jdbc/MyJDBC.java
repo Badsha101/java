@@ -15,7 +15,7 @@ public class MyJDBC {
 
             String databaseName = "newdb";
             String userName = "admin";
-            String password = "halloBadshah999";
+            String password = "***********";
     
             Connection connection = DriverManager.getConnection(url,userName, password);
     
